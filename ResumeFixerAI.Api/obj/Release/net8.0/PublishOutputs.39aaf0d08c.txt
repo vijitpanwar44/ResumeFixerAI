@@ -1,0 +1,10 @@
+C:\Users\vijit\OneDrive\Desktop\ResumeFixerAI_Simplified\publish\ResumeFixerAI.Api.exe
+C:\Users\vijit\OneDrive\Desktop\ResumeFixerAI_Simplified\publish\publish\web.config
+C:\Users\vijit\OneDrive\Desktop\ResumeFixerAI_Simplified\publish\publish\ResumeFixerAI.Api.deps.json
+C:\Users\vijit\OneDrive\Desktop\ResumeFixerAI_Simplified\publish\publish\ResumeFixerAI.Api.runtimeconfig.json
+C:\Users\vijit\OneDrive\Desktop\ResumeFixerAI_Simplified\publish\publish\ResumeFixerAI.Api.staticwebassets.endpoints.json
+C:\Users\vijit\OneDrive\Desktop\ResumeFixerAI_Simplified\publish\ResumeFixerAI.Api.dll
+C:\Users\vijit\OneDrive\Desktop\ResumeFixerAI_Simplified\publish\ResumeFixerAI.Api.deps.json
+C:\Users\vijit\OneDrive\Desktop\ResumeFixerAI_Simplified\publish\ResumeFixerAI.Api.runtimeconfig.json
+C:\Users\vijit\OneDrive\Desktop\ResumeFixerAI_Simplified\publish\ResumeFixerAI.Api.pdb
+C:\Users\vijit\OneDrive\Desktop\ResumeFixerAI_Simplified\publish\Newtonsoft.Json.dll
